@@ -38,7 +38,7 @@ Funcionalidades futuras:
 ---
 ## 📸 Prévia do Site
 
-> ![image](![CapturaSiteTeste]()
+> ![image](![CapturaSiteTeste](file:///C:/Users/User/Desktop/Kaktus/CapturaSiteTeste.png)
 )
 
 
