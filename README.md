@@ -38,7 +38,7 @@ Funcionalidades futuras:
 ---
 ## 📸 Prévia do Site
 
-> ![image](![CapturaSiteTeste](https://github.com/user-attachments/assets/8f7cc145-946a-4242-b41a-0256742cdf83)
+> ![image](![CapturaSiteTeste]()
 )
 
 
